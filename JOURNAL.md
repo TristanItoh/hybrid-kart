@@ -21,4 +21,6 @@ Brainstorming what parts to use:
 I've created a rough model of the go kart in Roblox Studio, just to make it easier to visualize. Later I'll remake it in fusion360 as my proper cad model
 ![Screenshot 2025-06-06 231950](https://github.com/user-attachments/assets/b8c5d948-6094-41f0-a3ba-2d785f448f44)
 
-I tried to keep it simple while still keeping it professional.
+I tried to keep it simple while still keeping it professional.<br>
+I kind of kept adding stuff to it as I made it. At first it was just a super basic frame. Then I turned it into a truck. Then when doing the steering wheel I added the elevated beams on both sides. The result turned out pretty cool.
+### Total Session Time: 3 Hours
