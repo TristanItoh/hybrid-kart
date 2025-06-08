@@ -1,8 +1,9 @@
 Item,Description,Quantity,Source,Estimated Cost
 Steering Wheel,3D Printed,1,3D Printer,$3.00
 Engine,2 Stroke 49CC 3HP,1,Aliexpress,$55.00
-Sprocket & Chain,"3/4"" Bore 50T",1,Aliexpress,$13.00
+Sprocket & Chain,54T T8F,1,Aliexpress,$13.51
 Fuel Filter + Tubing,,1,Aliexpress,$8.00
+Throttle,Foot Pedal,1,Aliexpress,9.21
 Hoverboard Motors,"Wheels w/ hub motors pulled from 
 used hoverboards",2,Already Have,$0.00
 Metal Tubes,Metal for vehicle frame,1,Already Have,$0.00
@@ -14,12 +15,12 @@ specs, but they'll work ",2,Already Have,$0.00
 motor controller","RioRand 350W 6-60V PWM DC Brushless Electric 
 Motor Speed Controller with Hall",2,Amazon,$38.00
 Hole Saw Kit,"Includes some hole saws we need. Much better 
-value than buying them individually",1,Amazon,$26.00
-Bearings,"10 Pack 3/4"" ID 1-3/8"" OD",1,Amazon,$14.00
+value than buying them individually",1,Amazon,$36.00
+Bearings,"10 Pack 3/4"" ID 1-3/8"" OD",1,Amazon,$14.40
 Wheels,"10"" pneumatic wheels",2,Harbor Freight,$20.00
 Plywood,"1/2"" 2x4s",2,Home Depot,$38.00
-Steel Rod,"3/4"" 48 in. (cut to be about 28 in.)",1,Home Depot,$35.00
+Steel Rod,"3/4"" 48 in. (cut to be about 28 in.)",1,Home Depot,$34.86
 Chair,"Plastic folding chair, cut down to use as real chair",1,Home Depot,$26.00
 Steering Rod,Long rod attached to steering wheel,1,Home Depot,$15.46
-Miscellaneous,"Screw, washers, bolts, nuts",,Whatever,$10.00
-,,,Total:,$301.46
+Miscellaneous,"Screws, washers, bolts, nuts",,Whatever,$10.00
+,,,Total:,$321.44
