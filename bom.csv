@@ -1,33 +1,4 @@
-Item,Description,Quantity,Source,Estimated Cost,Notes
-Square Steel Tubing,1" x 1" x 11-gauge mild steel ~50 ft,50 ft,Scrap yard or Tractor Supply,$0–$50,Main frame and cross members. Cut for 5–6 ft long 2–3 ft wide frame.
-Steel Plate,12" x 12" x 3/16" mild steel,2,Scrap yard or hardware store,$0–$20,For engine mount and steering brackets.
-Angle Iron,1" x 1" x 1/8" mild steel ~10 ft,10 ft,Scrap yard,$0–$15,Reinforce corners and seat mounts.
-Gas Engine,212cc 6.5 HP horizontal shaft,1,Already owned,$0,Ensure clutch compatibility.
-Centrifugal Clutch,3/4" bore #40 chain compatible,1,Go Power Sports or Amazon,$20–$40,Connects engine to chain drive.
-Sprocket,#40 chain 60 teeth,1,Go Power Sports or eBay,$10–$20,Mounts to rear axle.
-Chain,#40 roller chain ~6 ft,1,Tractor Supply,$10–$20,Measure after axle setup.
-Throttle Cable,Universal go-kart throttle cable,1,Amazon,$5–$15,Connects gas pedal to engine.
-Hoverboard Wheels,6.5" wheels with hub motors,2,Already owned,$0,Rear wheels with 36V motors.
-Battery,36V 100–200 Wh hoverboard battery,1,Salvaged or eBay,$0–$50,Reuse from hoverboard if possible.
-Motor Controller,Hoverboard motor controller,1,Salvaged or eBay,$0–$30,May need custom firmware.
-Throttle (Electric),Hall-effect e-bike throttle,1,Amazon or eBay,$10–$20,3.3V–5V compatible.
-Wiring and Connectors,Miscellaneous wires and connectors,Lot,Hardware store,$0–$10,For electric system.
-Harbor Freight Wheels,8" pneumatic wheels,2,Already owned,$0,Front steering wheels.
-Rear Axle,1" diameter live axle ~45" long,1,Scrap yard or Go Power Sports,$0–$50,For hoverboard wheels.
-Pillow Blocks,1" bore pillow block bearings,2,Amazon,$10–$20,Supports rear axle.
-Front Axle/Kingpins,5/8" shoulder bolts,2,Tractor Supply,$5–$10,For steering knuckles.
-Steering Column,3/4" steel rod ~2 ft,1,Scrap yard,$0–$10,Connects to steering wheel.
-Steering Wheel,10" go-kart steering wheel,1,Go Power Sports,$20–$30,Can fabricate from scrap.
-Tie Rods,1/2" steel rod ~14" long,2,Scrap yard,$0–$10,Connects to front wheels.
-Spindle Brackets,1/2" bore spindle brackets,2,Go Power Sports,$10–$20,For front wheel steering.
-Brake Caliper,Mechanical disc brake caliper,1,Amazon,$20–$40,Mounts to rear axle.
-Brake Disc,6" brake disc 1" bore,1,Go Power Sports,$15–$30,For rear axle braking.
-Brake Pedal,Go-kart brake pedal,1,Amazon,$10–$20,Connects to brake cable.
-Brake Cable,Universal brake cable,1,Hardware store,$5–$15,Links pedal to caliper.
-Seat,Plywood 3/4" thick 21" x 24",1,Scrap wood,$0–$20,Or use salvaged car seat.
-Gas Pedal,Go-kart throttle pedal,1,Go Power Sports,$10–$20,Connects to throttle cable.
-Bolts Nuts Washers,M5 M8 3/8" 1/2" various lengths,Lot,Tractor Supply,$10–$20,Bulk for mounting.
-Wood Screws,2–3" exterior wood screws,Lot,Hardware store,$5–$10,For seat and wood parts.
-Kill Switch,Engine kill switch,1,Amazon,$5–$10,Grounds engine to stop.
-Helmet,Safety helmet,1,Harbor Freight,$20–$50,Essential for safety.
-Paint/Primer,Metal primer and spray paint,2 cans,Harbor Freight,$10–$20,Prevents chassis rust.
+Item,Description,Quantity,Source,Estimated Cost
+Steel Tubing,1" x 1" mild steel,10 ft,Scrap yard,$0
+Gas Engine,212cc engine,1,Already owned,$0
+Wheels,6.5" hoverboard wheels,2,Already owned,$0
