@@ -1,5 +1,5 @@
 # The Hybrid Truck Kart
-A custom hybrid truck-style go-kart with a 49cc 2-stroke engine, a cargo bed, and hoverboard motors and batteries.
+A custom hybrid truck-style go-kart with a 49cc 2-stroke engine, a cargo bed, and hoverboard motors and batteries, all on a custom build frame.
 
 ## Why?
 I've dreamed of building a go-kart for a while now, but the high cost of parts always held me back. I love walking around the neighborhood and visiting garage sales, so I created this to make those trips quicker and more fun.<br/> *But why a truck go-kart?* To help carry around my yard sale treasures!
