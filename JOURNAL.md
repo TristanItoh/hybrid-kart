@@ -4,7 +4,7 @@ author: "Tristan Itoh"
 description: "A hybrid go kart truck"
 created_at: "2024-06-06"
 ---
-## Total Time Spent: ~15 Hours
+### Total Time Spent: ~15 Hours
 # Journal
 
 ## Day 1 - May 6
