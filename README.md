@@ -13,6 +13,7 @@ This go-kart is a hybrid system:
 
 ![Screenshot 2025-06-08 172208](https://github.com/user-attachments/assets/298a6fbb-2ddc-436b-816a-4637dbdd4d05)
 ![Screenshot 2025-06-08 173154](https://github.com/user-attachments/assets/5170186a-e5c0-41c7-bd80-22af9ce58f57)
+![Screenshot 2025-06-09 152541](https://github.com/user-attachments/assets/25280f42-6e2b-4a47-b37a-5e2f575b8732)
 
 ## Wiring Diagram
 ![wire diagram go kart](https://github.com/user-attachments/assets/d2614ebb-9050-4869-a694-851a9af0d462)
