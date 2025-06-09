@@ -4,7 +4,7 @@ author: "Tristan Itoh"
 description: "A hybrid go kart truck"
 created_at: "2024-06-06"
 ---
-
+## Total Time Spent: ~15 Hours
 # Journal
 
 ## Day 1 - May 6
@@ -54,4 +54,4 @@ I also added a throttle to the BOM that I will use to control the hoverboard mot
 I'm guessing we're supposed to wait for the grant before buying any parts, but I'm going to buy some now and hopefully get it reimbursed later. First I wanted to get the two metal rods I need, one for the rear axle, and one for the steering. I picked up the steering axle at a Home Depot, but they didn't have the axle rod I needed. So I ended up having to go to a different much larger home depot to get it. I also looked for hole saws at both but they are way too expensive. I also picked up some washers that I'll need.
 <br><br>
 Oh yeah, and I finished most of the README file. Should be able to submit this whole project soon 👍
-### Total Session Time: 5 Hours
+### Total Session Time: 6 Hours
