@@ -40,3 +40,18 @@ I also spent some time refining the CAD model. The previous version was the righ
 
 ![Screenshot 2025-06-08 020558](https://github.com/user-attachments/assets/c76fcfd8-e9fb-4acb-82a9-d1e142bfe21d)
 ### Total Session Time: 6 Hours
+
+## Day 3 - May 8
+Since the CAD model and BOM are pretty much done, I spent today refining both of those, as well as looking for some parts to buy.<br>
+### CAD Changes
+Originally I was planning to build the seat of the go kart from scratch out of wood, but decided it would only cost a little more to just get a standard foldable chair. Although I already decided this yesterday, I didn't update the CAD model accordingly, so I found a chair 3d model, stuck it on the car model, and chopped its legs off to where its much closer to the ground
+
+![Screenshot 2025-06-08 172208](https://github.com/user-attachments/assets/b9727a97-d39a-4784-b496-d20df1554489)
+### BOM Changes
+After double checking each of the links on the BOM, it turns out the hole saw kit didn't have a 1-3/8" saw, which we definitely needed. I had to look for a different one that did have it, and this new one has many more sizes but it's like $10 more. Hopefully Hack Club won't mind, because I kind of need them and buying them individually would feel like a waste.<br>
+I also added a throttle to the BOM that I will use to control the hoverboard motors.
+### Finding Parts
+I'm guessing we're supposed to wait for the grant before buying any parts, but I'm going to buy some now and hopefully get it reimbursed later. First I wanted to get the two metal rods I need, one for the rear axle, and one for the steering. I picked up the steering axle at a Home Depot, but they didn't have the axle rod I needed. So I ended up having to go to a different much larger home depot to get it. I also looked for hole saws at both but they are way too expensive. I also picked up some washers that I'll need.
+<br><br>
+Oh yeah, and I finished most of the README file. Should be able to submit this whole project soon 👍
+### Total Session Time: 5 Hours
