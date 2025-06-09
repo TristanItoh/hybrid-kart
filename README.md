@@ -2,7 +2,7 @@
 A custom hybrid truck-style go-kart with a 49cc 2-stroke engine, a cargo bed, and hoverboard motors and batteries, all on a custom build frame.
 
 ## Why?
-I've dreamed of building a go-kart for a while now, but the high cost of parts always held me back. I love walking around the neighborhood and visiting garage sales, so I created this to make those trips quicker and more fun.<br/> *But why a truck go-kart?* To help carry around my yard sale treasures!
+I've dreamed of building a go-kart for a while now, but the high cost of parts always held me back. This project is my first step to building my end-goal project: a full sized hybrid vehicle. It's sort of like a practice demo for making vehicles, while still making something cool that I can drive around in. <br/> *But why a truck?* To carry around my treasure!
 
 ## Technical Overview
 This go-kart is a hybrid system:
@@ -38,6 +38,7 @@ This go-kart is a hybrid system:
 | Steel Rod             | 3/4" 48 in. (cut to be about 28 in.)            | 1        | Home Depot   | $34.86         |
 | Chair                 | Plastic folding chair, cut down to use as real chair | 1 | Home Depot | $26.00         |
 | Steering Rod          | Long rod attached to steering wheel             | 1        | Home Depot   | $15.46         |
+| Chain Breaker Tool    |                                                 | 1        | Walmart      | $15.46         |
 | Miscellaneous         | Screws, washers, bolts, nuts, fuse              | Various  | Whatever     | $15.00         |
 
-**Total Estimated Cost: $326.44**
+**Total Estimated Cost: $336.40**
