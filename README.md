@@ -6,8 +6,8 @@ I've dreamed of building a go-kart for a while now, but the high cost of parts a
 
 ## Technical Overview
 This go-kart is a hybrid system:
-- **Powertrain**: A 49cc 2-stroke 3hp engine drives the rear axle via a 14T/54T sprocket setup, with two salvaged hoverboard motors on the front wheels providing acceleration, controlled by 400W BLDC controllers.
-- **Frame**: Custom made with salvaged steel tubes, cut to the right lengths. using steel rods as axles
+- **Powertrain**: A 49cc 2-stroke 3hp engine drives the rear axle via a 14T/54T sprocket setup, with two hoverboard motors on the front wheels providing acceleration, controlled by 400W BLDC controllers.
+- **Frame**: Custom made with salvaged steel tubes, cut to the right lengths, with steel rods as axles
 - **Electronics**: Repurposed hoverboard batteries and 400w 36v motors, integrating them into this go-kart instead.
 - **Challenges**: Hybrid powertrain, frame stability with heavy loads, and designing a steering system.
 
