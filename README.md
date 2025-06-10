@@ -39,7 +39,7 @@ This go-kart is a hybrid system:
 | Steel Rod             | 3/4" 48 in. (cut to be about 28 in.)            | 1        | Home Depot   | $34.86         |
 | Chair                 | Plastic folding chair, cut down to use as real chair | 1 | Home Depot | $26.00         |
 | Steering Rod          | Long rod attached to steering wheel             | 1        | Home Depot   | $15.46         |
-| Chain Breaker Tool    |                                                 | 1        | Walmart      | $15.46         |
+| Chain Breaker Tool    |                                                 | 1        | Walmart      | $9.96         |
 | Miscellaneous         | Screws, washers, bolts, nuts, fuse              | Various  | Whatever     | $15.00         |
 
 **Total Estimated Cost: $323.40**
