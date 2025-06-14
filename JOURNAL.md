@@ -55,3 +55,18 @@ I'm guessing we're supposed to wait for the grant before buying any parts, but I
 <br><br>
 Oh yeah, and I finished most of the README file. Should be able to submit this whole project soon 👍
 ### Total Session Time: 6 Hours
+
+## Day 4 - May 9
+Today was fairly short. I fixed one thing and submitted the project. <br>
+
+I posted my project in highway-pitstop and it seems to be getting positive reactions. One person replied on it and said it would be helpful to know more specifics about the hoverboard motor. After seeing that I tried to find the exact model (which i couldnt find last time a tried) and I did end up finding it this time. It ended up being 400 watts instead of the expected 350 watts. It was an easy fix though, the same motor controller i picked also has a 400w version. The go kart should be nearly perfect now.
+
+## Day 5 - May 13
+So two days before, alexren replied to my project and pretty much has concerns about if I can finish the project on time. I do believe i can so i replied, but it seems like alex hasn't really seen any replies.<br>
+
+Then yesterday, I decided to just start working on the project anyways regardless of if it gets accepted or not. Maybe even just starting it now can prove that i will finish it on time. I've had all my metal lying on a glass table covered in tools and it was all kinda dirty. I basically spent the whole day cleaning it all up and moving it all into the garage so i can start working there.<br>
+
+And now finally, today, I started doing real work, starting with learning to weld. I tried welding two pieces together but it didn't really work. Then I tried with something else that's a little bigger and it actually worked. But when i tried to weld something for a third time... my whole table shattered.<br>
+
+I guess I should have expected that from welding on a glass table... But tomorrow i'll buy a welding blanket and start welding on a plastic table instead
+### Total Session TIme: 4 Hours
