@@ -7,7 +7,7 @@ created_at: "2024-06-06"
 ### Total Time Spent: ~15 Hours
 # Journal
 
-## Day 1 - May 6
+## Day 1 - June 6
 Brainstorming what parts to use:
 - Engine: either a cheap aliexpress engine, or a predator 212 if budget allows
 - Motors: either cheap hoverboard motors, or a good one like an my1020
@@ -25,7 +25,7 @@ I tried to keep it simple while still keeping it professional.<br>
 And I kind of kept adding stuff to it as I made it. At first it was just a super basic frame. Then I turned it into a truck. Then when doing the steering wheel I added the elevated beams on both sides. The result turned out pretty cool.
 ### Total Session Time: 3 Hours
 
-## Day 2 - May 7
+## Day 2 - June 7
 Today was focused on figuring out what parts to use and creating the BOM. I had a rough idea when designing the CAD model, but only for things like the wheels, engine, and motors. For smaller stuff I had to spend quite a while thinking about it.<br>
 A few notable parts:
 - **Steering wheel and seat:** I tried look for cheap parts for both of these but all of them ended up way too expensive. Nobody is paying $30 for a plastic steering wheel. I opted to 3D print the steering wheel myself and buy a plastic folding chair for the seat. Folding chair is a little rough, cause I'm gonna have to cut the legs off to make it actually fit well.
@@ -41,7 +41,7 @@ I also spent some time refining the CAD model. The previous version was the righ
 ![Screenshot 2025-06-08 020558](https://github.com/user-attachments/assets/c76fcfd8-e9fb-4acb-82a9-d1e142bfe21d)
 ### Total Session Time: 6 Hours
 
-## Day 3 - May 8
+## Day 3 - June 8
 Since the CAD model and BOM are pretty much done, I spent today refining both of those, as well as looking for some parts to buy.<br>
 ### CAD Changes
 Originally I was planning to build the seat of the go kart from scratch out of wood, but decided it would only cost a little more to just get a standard foldable chair. Although I already decided this yesterday, I didn't update the CAD model accordingly, so I found a chair 3d model, stuck it on the car model, and chopped its legs off to where its much closer to the ground
@@ -56,12 +56,12 @@ I'm guessing we're supposed to wait for the grant before buying any parts, but I
 Oh yeah, and I finished most of the README file. Should be able to submit this whole project soon 👍
 ### Total Session Time: 6 Hours
 
-## Day 4 - May 9
+## Day 4 - June 9
 Today was fairly short. I fixed one thing and submitted the project. <br>
 
 I posted my project in highway-pitstop and it seems to be getting positive reactions. One person replied on it and said it would be helpful to know more specifics about the hoverboard motor. After seeing that I tried to find the exact model (which i couldnt find last time a tried) and I did end up finding it this time. It ended up being 400 watts instead of the expected 350 watts. It was an easy fix though, the same motor controller i picked also has a 400w version. The go kart should be nearly perfect now.
 
-## Day 5 - May 13
+## Day 5 - June 13
 So two days before, alexren replied to my project and pretty much has concerns about if I can finish the project on time. I do believe i can so i replied, but it seems like alex hasn't really seen any replies.<br>
 
 Then yesterday, I decided to just start working on the project anyways regardless of if it gets accepted or not. Maybe even just starting it now can prove that i will finish it on time. I've had all my metal lying on a glass table covered in tools and it was all kinda dirty. I basically spent the whole day cleaning it all up and moving it all into the garage so i can start working there.<br>
