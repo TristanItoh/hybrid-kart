@@ -61,7 +61,7 @@ Today was fairly short. I fixed one thing and submitted the project. <br>
 
 I posted my project in highway-pitstop and it seems to be getting positive reactions. One person replied on it and said it would be helpful to know more specifics about the hoverboard motor. After seeing that I tried to find the exact model (which i couldnt find last time a tried) and I did end up finding it this time. It ended up being 400 watts instead of the expected 350 watts. It was an easy fix though, the same motor controller i picked also has a 400w version. The go kart should be nearly perfect now.
 
-## Day 5 - June 13
+## Day 8 - June 13
 So two days before, alexren replied to my project and pretty much has concerns about if I can finish the project on time. I do believe i can so i replied, but it seems like alex hasn't really seen any replies.<br>
 
 Then yesterday, I decided to just start working on the project anyways regardless of if it gets accepted or not. Maybe even just starting it now can prove that i will finish it on time. I've had all my metal lying on a glass table covered in tools and it was all kinda dirty. I basically spent the whole day cleaning it all up and moving it all into the garage so i can start working there.<br>
@@ -70,3 +70,6 @@ And now finally, today, I started doing real work, starting with learning to wel
 
 I guess I should have expected that from welding on a glass table... But tomorrow i'll buy a welding blanket and start welding on a plastic table instead
 ### Total Session TIme: 4 Hours
+
+## Day 12 - June 17
+For the past few days, I've just continued practice welding. I remember a day or two ago I kept trying to weld 2 pipes together, and it just kept snapping apart. But I bought new electrodes and they work like magic. Those 2 pipes I probably still have to grind down the excess, but I tried on 2 new ones and they are now solidly attached. Now I've basically got 2 long steel pipes, which I'll use for the two sides of the bottom part of the frame. Tomorrow I'll start cutting the ones that go in between, and maybe even weld them.
