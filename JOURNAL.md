@@ -73,3 +73,15 @@ I guess I should have expected that from welding on a glass table... But tomorro
 
 ## Day 12 - June 17
 For the past few days, I've just continued practice welding. I remember a day or two ago I kept trying to weld 2 pipes together, and it just kept snapping apart. But I bought new electrodes and they work like magic. Those 2 pipes I probably still have to grind down the excess, but I tried on 2 new ones and they are now solidly attached. Now I've basically got 2 long steel pipes, which I'll use for the two sides of the bottom part of the frame. Tomorrow I'll start cutting the ones that go in between, and maybe even weld them.
+
+## Day 15 - June 20
+I've kind of wasted the past day and a half trying to get the engine to work. I swear it's like I tried everything. New gas, starter fluid, starting it manually, still nothing. I guess all I really did those past 2 days was weld 2 more pipes together. Now I've got 3 of these long pipes. Today I finally caved and bought a new engine. 
+
+![s-l1200](https://github.com/user-attachments/assets/73892343-00fd-4ba4-b13e-0460f94bf06a)
+
+It's a predator 212. I don't think I would have bought it if there wasn't a sale on it. I got it for $120 which is pretty pricey, but it's not bad considering its like double the power for double the price. I successfully got it to run, and it was so much easier to start then the Aliexpress one. Just fill it up, flick a thingy, and pull.<br> There are three problems though:
+  1. It doesn't have a clutch
+  2. It's pretty big
+  3. The sprocket I bought will no longer be compatible<br>
+
+For the clutch, I can easily buy one from Amazon to put on it. I've been looking for new sprockets and another concern is if the gear ratio will be enough. I could probably just return the other sprocket I bought for the previous engine. And for the size, I'm not sure. I might just have to raise the bed even higher, and put a hole in it for the gas.
