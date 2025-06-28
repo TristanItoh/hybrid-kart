@@ -85,3 +85,26 @@ It's a predator 212. I don't think I would have bought it if there wasn't a sale
   3. The sprocket I bought will no longer be compatible<br>
 
 For the clutch, I can easily buy one from Amazon to put on it. I've been looking for new sprockets and another concern is if the gear ratio will be enough. I could probably just return the other sprocket I bought for the previous engine. And for the size, I'm not sure. I might just have to raise the bed even higher, and put a hole in it for the gas.
+
+## Day 22 - June 27
+So uhh i've kind of forgotten about this whole journaling thing. But I have certainly been working. I'll kind of split it into parts:
+
+### Plan:
+I've kind of split this whole project into 6 parts. Here are they:
+1. Design [COMPLETED]
+2. Trial and error, buying parts and tools [COMPLETED]
+3. Cut pipes [COMPLETED]
+4. Cut holes in pipes [DOING]
+5. Weld pipes together, complete frame
+6. Install everything onto frame
+
+### Trial and error
+There's been a lot of random stuff ive had to buy for this project. First I bought a drill press to drill holes into pipes easier. But just holding pipes under it is too unstable, so I decided i needed a pipe notcher too to hold it in place. So I bought some random pipe notcher from offerup. It was crazy nasty so I had to clean it up. And then I realized my drill doesnt fit the long thingy. So I tried putting it on the drill press instead, but it just wouldn't stay on steady. And then that one kind of broke, so I bought a brand new one. And even that one didn't work. So i kind of had to give up with the drill press and instead do a regular drill. So i then had to buy an entire new drill just to fit... Yap over.
+
+### Design
+So I've already designed the model but i wanted to clearly have what pipes im using for what parts, how to cut them up, and basically just all the information i'll need to assemble the frame. Here's some examples:
+![iawdmage](https://github.com/user-attachments/assets/3dd4dcca-789a-4439-b34d-c2fbded339f9)
+![imaawdawge](https://github.com/user-attachments/assets/68f5ed85-d3f2-40f5-8957-4885f827fd96)
+
+### Cutting pipes
+So after all the trial and error, I finally started cutting the pipes. For now just with the angle grinder and not with the hole saw. I think it took like 3 days to cut them all. Designing everything out was super handy. And yeah, that's pretty much the progress so far.
