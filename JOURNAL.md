@@ -108,3 +108,7 @@ So I've already designed the model but i wanted to clearly have what pipes im us
 
 ### Cutting pipes
 So after all the trial and error, I finally started cutting the pipes. For now just with the angle grinder and not with the hole saw. I think it took like 3 days to cut them all. Designing everything out was super handy. And yeah, that's pretty much the progress so far.
+
+## Day Whatever - June 28 to August 1
+
+A lot has happened, and not much has been done...
