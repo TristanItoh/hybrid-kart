@@ -43,3 +43,12 @@ This go-kart is a hybrid system:
 | Miscellaneous         | Screws, washers, bolts, nuts, fuse              | Various  | Whatever     | $15.00         |
 
 **Total Estimated Cost: $323.40**
+
+## Finished Build + Demo
+
+Here's how the finished kart looks:
+![20250807_205058](https://github.com/user-attachments/assets/33a39d3d-c695-46ba-bd6d-46e96ddedf57)
+![20250807_205105](https://github.com/user-attachments/assets/b0163691-1215-4426-b4bb-5f72ece225c1)
+
+And a video of it working:
+https://youtu.be/AjNEpxWg-Ms
