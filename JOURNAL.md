@@ -99,7 +99,7 @@ I've kind of split this whole project into 6 parts. Here are they:
 6. Install everything onto frame
 
 ### Trial and error
-There's been a lot of random stuff ive had to buy for this project. First I bought a drill press to drill holes into pipes easier. But just holding pipes under it is too unstable, so I decided i needed a pipe notcher too to hold it in place. So I bought some random pipe notcher from offerup. It was crazy nasty so I had to clean it up. And then I realized my drill doesnt fit the long thingy. So I tried putting it on the drill press instead, but it just wouldn't stay on steady. And then that one kind of broke, so I bought a brand new one. And even that one didn't work. So i kind of had to give up with the drill press and instead do a regular drill. So i then had to buy an entire new drill just to fit... Yap over.
+There's been a lot of random stuff ive had to buy for this project. First I bought a drill press to drill holes into pipes easier. But just holding pipes under it is too unstable, so I decided i needed a pipe notcher too to hold it in place. So I bought some random pipe notcher from offerup. It was crazy nasty so I had to clean it up. And then I realized my drill doesnt fit the shaft. So I tried putting it on the drill press instead, but it just wouldn't stay on steady. And then that one kind of broke, so I bought a brand new pipe notcher. And even that one didn't work. So i kind of had to give up with the drill press and instead do a regular drill. So i then had to buy an entire new drill with a bigger shaft and yeah... Yap over.
 
 ### Design
 So I've already designed the model but i wanted to clearly have what pipes im using for what parts, how to cut them up, and basically just all the information i'll need to assemble the frame. Here's some examples:
@@ -107,8 +107,34 @@ So I've already designed the model but i wanted to clearly have what pipes im us
 ![imaawdawge](https://github.com/user-attachments/assets/68f5ed85-d3f2-40f5-8957-4885f827fd96)
 
 ### Cutting pipes
-So after all the trial and error, I finally started cutting the pipes. For now just with the angle grinder and not with the hole saw. I think it took like 3 days to cut them all. Designing everything out was super handy. And yeah, that's pretty much the progress so far.
+So after all the trial and error, I finally started cutting the pipes. For now just with the angle grinder and not with the hole saw. I think it took like 3 days to cut them all, and that was after all the trial and error, which kind of ate up a lot of time. There wasn't really anything notable, just a bunch of straight cuts. Designing everything out beforehand was super handy. I could easily see what to cut, so all I had to do was measure, draw a line, and go for it.
 
-## Day Whatever - June 28 to August 1
+## June 28 to July 9 (Going to stop counting days)
+With all of the straight cuts out of the way, I can move forward with doing all of the tube cuts with the pipe notcher. 
 
-A lot has happened, and not much has been done...
+![20250819_193628](https://github.com/user-attachments/assets/bd523c7f-9b38-4488-bfc5-5d236ac179c0)
+
+### The super cool pipe notcher process!!!!!!
+So I thought this would be pretty straightforward. I have my pipes, pipe notcher, and thread cutting lubricant. It was a little trickier than I thought. Basically my initial strategy was this:
+- Mark a dot at the edge of a circle I needed to cut
+- Insert into pipe notcher, making sure it's straight if there's another hole it needs to be parallel to
+- Apply lubricant, set drill down into it, start drilling
+- Drill until either hole saw gets stuck in pipe or there's a bunch of smoke
+- In either scenario, apply more lubricant and continue drilling again
+
+This strategy did seem to work for like the first 1/3 of the holes I needed to cut. But I sort of refined the process cause it was inefficient at times and even dangerous. Here are changes I made along the way and why:
+1. Draw a full arc around where I need to cut - this way I won't have to keep checking the design for which side of the circle the dot is on
+2. Instead of resting the drill on the pipe, then starting to drill, instead keep the drill spinning full speed THEN put it into the pipe - pretty obvious, digs into the pipe way easier at the start. idk why i didn't think of this at first
+3. MOST IMPORTANT attaching the pipe notcher to the table - this one might seem strange, but it actually made it so much safer to use. Sometimes the hole saw would get stuck with the pipe, and it would then spin the entire pipe notcher around, either hitting me or falling off the table (or both). After I got a couple cuts from this happening, I finally just bolted it down to the table.
+
+After making these changes, the process went a lot smoother.
+
+### More cuts
+
+Now that the pipe notcher process was refined, I began to drill the rest of the easy holes (as in the ones that are on long pipes that are just centered in the middle). This did take longer than it should have, mainly because I began to spend more time on my Open Sauce project that I was gonna need to finish soon. So after like a couple days, all of the straight holes were cut, now there were the more complex ones. For holes that were centered at the edge of a pipe (so that there's only half a circle being cut into them), I had to sort of offset the shaft that the drill is attached to, so that it was no longer centered in the middle of the pipe. Then there were some short pipes that weren't long enough to be held in the pipe notcher. This was pretty hard to figure out, and I thought I was just gonna have to do it the hard way with a drill press. But I found that if i stuck it in, then just put another pipe locked into it to where they're touching and basically just stuck together, it basically works as if it was just one long pipe. And with the short pipes cut, I could finally move forward to the fun part - actually welding everything together!!!!!
+
+I feel like it might seem I didn't do a whole lot in this time, but as my excuse, I really had to lock in on a project for Open Sauce and had less time to spare on this project.
+
+## Note: From July 10 to July 21, I was in San Francisco for Undercity and Open Sauce! Just want to make sure you don't think I was doing nothing for nearly 2 weeks lol.
+
+## July 22 - Starting Welding
