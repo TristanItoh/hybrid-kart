@@ -135,6 +135,35 @@ Now that the pipe notcher process was refined, I began to drill the rest of the 
 
 I feel like it might seem I didn't do a whole lot in this time, but as my excuse, I really had to lock in on a project for Open Sauce and had less time to spare on this project.
 
+<img width="592" height="459" alt="Screenshot 2025-08-20 234233" src="https://github.com/user-attachments/assets/f36ec77f-9687-4b2d-ac7c-f945077bb463" />
+
 ## Note: From July 10 to July 21, I was in San Francisco for Undercity and Open Sauce! Just want to make sure you don't think I was doing nothing for nearly 2 weeks lol.
 
 ## July 22 - Starting Welding
+With Undercity and Open Sauce out of the way, I could finally put my full efforts into this project. I started right away with welding together all of the metal I've already cut. This was probably my favorite part. Before welding, it still looked like I had nothing done. But just starting to weld stuff together, the whole thing just starts coming together. I welded in layers sort of, starting with first, the very bottom. It's funny, even though the bottom should be the strongest, I welded it first where my welds were not great. This was the very first part I welded:
+
+![imaawdawdge0](https://github.com/user-attachments/assets/0c39022f-c566-4e06-ae9e-263f59debf6b)
+
+You can probably see how I used the hole saw to cut circles into both ends of the pipe. The top has that crescent curve, and the bottom does too, already welded together to the longer pipe at the bottom. That short piece is the back piece of the bottom. Next, I would weld the other side on:
+
+![imagawdwade0](https://github.com/user-attachments/assets/e2b771d2-f394-4e11-aa90-35ce25c3897a)
+
+In this photo, that one side isn't welded on yet, but you can now more obviously see it's the bottom of a go kart. In the previous photo with just one side, I managed to do it very straight (as in like perpendicular) and it turned out really nice. For this second one, though, it didn't go so smooth. At first I tried welding it on very straight, then I burned a very large hole through the side, so I then had to flip it over and weld on a clean side. Little did I know, when I flipped it over, the previous weld that stuck out made it so that it was no longer straight. I didn't really notice until I stood up after I finished welding. Honestly I thought i was gonna have to grind it off and reweld, but it was able to bend a little... very forgiving.
+
+## July 23 to July 31 - Completing Welding
+
+At this point (July 23) school started up again. Let's just say it ate up a little bit of time that I could be spending on this project. For the next week or so, I was kind of locked in, didn't take any pictures or anything, just straight up welding every night. You'll definitely see how it came along a lot better in the August 1 log, but I'll still try to describe it here. I pretty much finished the entire frame, which includes:
+- 3 more bars between the sides on the bottom
+- 6 slanted vertical bars holding up the upper layer of the frame
+- The upper layer of the frame, held up by the vertical pieces
+- 4 little legs for the chair to rest on and keep it more elevated
+
+I don't remember every detail of what I worked on, so I'll just give little snippets of notable parts:
+
+1. When continuing the bottom layer from July 22, I found out I could just bend the bent side out to fit a new bar in the front that goes in between them. It was kinda scary cause I didn't know how well the weld would hold up. But it ended up being fine! And I could insert it very smoothly
+2. Now an extension to the last thing, I then had to insert two more bars between the sides of the bottom that support the seat. I should have probably realized that I should weld the inner ones before the outer ones, but didn't really think of that. Conveniently though, I didn't have to bend it too much to get it to fit. If i wasn't able to get it in, I would have had to cut it slightly shorter, redo the holes, and then it wouldnt even be as tight, so very glad it worked out!
+3. I planned to assemble the whole top layer before doing the vertical parts that bridge them together, but it didn't work out too well. When kind of just laying it out on the floor, I realized that I must have either measured the back wrong, or I just got the number wrong when I was making it in CAD, because it was like exactly 2 inches longer than it was supposed to do. At first I was worried i was gonna have to cut the whole back to be shorter, but I realized, I could just make those pieces on the sides of the top that curve outwards just go up instead. Then I can technically make the back as wide as I need. If I didn't realize this mistake, I would have the entire top layer too long and honestly... idk what I would have done.
+4. Following up the last one, now when I wanted to figure out how the kart should go, I basically assembled it all just loosely, relying on all of them going through the holes to hold itself together. It held together nicely, all I had to do was make sure the vertical pieces weren't leaning torwards a side. Now that I could actually see how it will all go together now, all of the vertical pieces were at the perfect angles that I can weld them at, so I started welding those first. After like 1 or 2 of them being welded, It was pretty solid. The top part was staying on nicely (although it wasn't welded on yet), and after that pretty much all I had to do was just weld everything together in the same way I already had it arranged.
+5. A design choice that differs from my original design was instead of having a tall triangle that holds the steering wheel, its just a simple horizontal bar that goes across. Honestly I don't really know which option was better structurally, but just in terms of finishing the project, the whole triangle thing was just unnecessary. In the image below, I put red lines that show where the new bar would go. The two pieces higher up that form a triangle will just be forgotten.
+
+<img width="353" height="234" alt="Screenshot 2025-08-21 001121" src="https://github.com/user-attachments/assets/6321f238-5275-41cf-acd5-02550f48dba7" />
