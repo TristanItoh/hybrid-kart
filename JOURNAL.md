@@ -166,4 +166,60 @@ I don't remember every detail of what I worked on, so I'll just give little snip
 4. Following up the last one, now when I wanted to figure out how the kart should go, I basically assembled it all just loosely, relying on all of them going through the holes to hold itself together. It held together nicely, all I had to do was make sure the vertical pieces weren't leaning torwards a side. Now that I could actually see how it will all go together now, all of the vertical pieces were at the perfect angles that I can weld them at, so I started welding those first. After like 1 or 2 of them being welded, It was pretty solid. The top part was staying on nicely (although it wasn't welded on yet), and after that pretty much all I had to do was just weld everything together in the same way I already had it arranged.
 5. A design choice that differs from my original design was instead of having a tall triangle that holds the steering wheel, its just a simple horizontal bar that goes across. Honestly I don't really know which option was better structurally, but just in terms of finishing the project, the whole triangle thing was just unnecessary. In the image below, I put red lines that show where the new bar would go. The two pieces higher up that form a triangle will just be forgotten.
 
-<img width="353" height="234" alt="Screenshot 2025-08-21 001121" src="https://github.com/user-attachments/assets/6321f238-5275-41cf-acd5-02550f48dba7" />
+<img width="353" height="234" alt="Screenshot 2025-08-21 001121" src="https://github.com/user-attachments/assets/0994e91d-ac9a-4b8a-9266-9d850c6d5372" />
+
+![imaawdge0](https://github.com/user-attachments/assets/ed8385d0-11be-4518-a583-6b6309fcf54f)
+(brother for scale)
+
+## August 1 to August 3 - Creating Rear Axle and Setting Up Engine
+
+Now, school was really picking up. With a week left for this project, that did not help. The work I did these next two days was not much, but it was something. 
+### Engine mounts
+First, I installed two bars that go across the right side of the bottom of the frame. This was where the engine would be mounted to. Same deal with the rest of the pipes, just measure, cut, weld. I actually put the two bars on the wrong side. When I realized the original plans had them on the other side, I thought I really screwed up. Very conveniently, though, if I were to put the engine on the other side, it would spin backwards. You can't really switch the direction the engine spins, so this accident was a lifesaver. Also something I forgot to mention earlier, since the engine shaft just spins continuously, I had to buy and install a clutch so that I can control it.
+### Rear Axle
+Next, I started working on the rear axle so that the engine can spin the wheels. I had to weld another pipe where the axle would go. Here, I could install bearings into each end of the pipe. I didn't have to weld them because it was already tight (it was hard enough just to cram them in lol). Then I was able to slide the rod into the bearings, probably the most satisfying part in a while. I could just spin and spin it around and it was so smooth. 
+### Wheel Adapters
+Meanwhile, I've been printing two adapters to attach my wheels to the axle. I designed it so that if I pop out the center part of the wheel, and make the hole inside a tight fit with the axle, it will securely attach the wheels to the axle. I got these pieces, crammed them into the wheels, then with the axle I just attached, I could then cram those wheels with the adapters onto the axle. This pretty much sealed the deal for the back axle and made it ready for the engine.
+
+![imawdaawdge0](https://github.com/user-attachments/assets/86482491-cb77-4d80-8bfa-51b36e3c69b8)
+![imawadawdge0](https://github.com/user-attachments/assets/d6381b43-29ea-470c-9424-5c5a1591bc02)
+
+## August 4 to August 6 - All the Engine Stuff
+
+This is pretty much building upon what I did in the last log. In preparation of the chain and sprocket, I mounted the engine to the two bars I was talking about before by bolting it down. Next I needed to start working on the sprocket.
+### Sprocket
+The sprocket I bought on Amazon had a hole in the center that is way too big for the axle. I had to sort of come up with my own DIY solution. For this, I cut two square pieces of metal from this random elevator lift I had lying around. I could then weld those onto each side of the sprocket to patch the holes. And finally, I could drill a hole in the middle to fit the proper size. I was afraid that I was gonna screw up the hole and not keep it centered, but it turned out fine. This was basically the new sprocket finished.
+
+Now I slid the sprocket onto the rear axle and put it in a position aligned with the engine's shaft. I could roll the wheels around and see the sprocket spin, which was a very good sign. Now I had to figure out the chain.
+### Chain
+The chain that came with the sprocket was decent, but too long, and I didn't have a chain breaker tool. I consulted an expert (chatgpt) and found out I can kind of just force the pin out so I can take some links off. I elevated the chain a bit and kind of just hit it with a screwdriver until it finally worked. This took like an unusual amount of time cause I couldn't figure it out. But finally when I did it, I shortened it, put in the master link, and I was able to attach it between the sprocket and engine clutch. The chain pretty much finalized the main drivetrain of the kart.
+
+I rolled the kart outside to test it. When I started the engine, it surprisingly (or maybe not so surprisingly) actually worked well. Now that this was all done, all that was left is the steering and electric system.
+
+![imagawdawde0](https://github.com/user-attachments/assets/9684bd90-3abc-461d-8282-a238bd1a5345)
+![imageawfr0](https://github.com/user-attachments/assets/f4a23260-d482-4a46-9463-1f229bc97835)
+
+## August 7 - Steering and Electric System
+
+THIS IS THE FINAL STRETCH!!!!!
+
+I gotta admit something. I didn't do the steering according to the plan. I had to make a last minute change, just because of how little time I had left. Instead of the whole real steering system, I decided I could just attach the front axle to a single pivot point in the middle, and just steer with my feet at the bottom. On the plus side, I could actually finish on time. On the down side, it's just not as cool. Gotta make some sacrifices. 
+### Steering
+I already had a front axle piece that I was planning to use for the original steering system, so I could just reuse this as the main piece. I did something similar with the back wheels, where I 3d printed some similar adapters (just different inner diameter) so that I could attach hoverboard wheels to the axle. Then with this full axle with the wheels on, I simply just drilled a hole through both that axle and the middle part of the bottom of the frame so I can attach them at a pivot. There's a threaded rod piece (that I was able to salvage from the rear axle) that holds them together, with some nuts on it making sure they wont slip apart. All this is pretty much the entire steering system. Simple yet still working.
+### Electrical System
+Now for the actual electric system, I pretty much forgot to journal any of it since its felt like a side thing from the rest of the go kart. I don't really remember when I was working on it (the majority was before Undercity) but it was pretty much already done. To summarize, I got the main pieces, two hoverboard wheels and a hoverboard battery, and additional stuff like the throttle and motor controllers. I followed my wiring diagram to get it all working, and it was pretty satisfying seeing how when I step on the pedal, the wheels speed up. I did have to switch the throttle from a pedal to like a motorcycle kind of throttle because the cheap pedal one still let some current through even with no force on it. With this whole electrical system made, I, again, attached those hoverboard wheels with adapters to the front axle. And I didn't really think through where the electronics would actually go. I ended up just taping it all to the side of the front and just left it hanging there. I was definitely rushing at this time because I only had like an hour left to submit.
+
+![imawdawdage0](https://github.com/user-attachments/assets/c0ac59de-04e1-4cf7-9d9c-4478c7cb447b)
+
+You can see all the stuff I've been talking about here. The front axle is attached at one point with the threaded rod holding it together. The electrical system (including battery) are all just hanging on the side there. And I have the throttle that's not really attached to anything, it's just handheld. One last thing is, to actually control the speed of the engine, I definitely did not have time for an actual pedal. I just tied a string to it and attached it to the front, so that the speed is controlled by how much I pull it. It's kind of a janky control system, where you steer with feet, and use your hands for speed of both engine and electric motors. 
+
+I didn't even really test the go kart until I really needed to record the demo video. I got my brother to drive it so that I could take the video from the outside. The electrical system was definitely weak. It was definitely doing something, but you had to give it a little boost for it to actually pick up. Once you use the engine, it's pretty much free driving. It was so cool to see my creation actually driving around, and the feet steering actually gave good control over it. 
+
+## The Future
+
+So this Highway version of the project is pretty cool, and it's already like a whole go kart made. There are just a few changes I still want to make to it in the future:
+1. Actual steering - The original steering system with a steering wheel is just so cool. I really want to add that steering on eventually so it's like a real car
+2. Suspension - Right now all the wheels are just directly attached. Some very simple suspension could definitely make the ride smoother. It is pretty bumpy when I ride it, and the engine makes it a lot shakier!
+3. Polish - The whole kart in general looks a lot like a scrap car. It technically is... but I don't really want it to look like that. I need to find a better place to put all the electronics, a proper system for controlling engine speed, maybe even cleaning up the welds, and finally, even painting the whole thing.
+
+For whoever's reading this, I hope you found this project interesting! I definitely enjoyed making it!
